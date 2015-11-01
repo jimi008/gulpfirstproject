@@ -1,0 +1,12 @@
+{
+  "name": "Gulp-test-project",
+  "version": "0.0.1",
+  "description": "First project about gulp and SASS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Jamil Ahmed"
+
+}
