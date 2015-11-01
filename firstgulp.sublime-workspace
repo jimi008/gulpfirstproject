@@ -1,0 +1,882 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"com",
+				"comm-section	Comment - Full section comment"
+			],
+			[
+				"comm",
+				"comm-subsection	Comment - Subsection comment"
+			],
+			[
+				"co",
+				"comm	Comment - Single-line block comment"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"fon",
+				"font"
+			],
+			[
+				"titl",
+				"title	Attr"
+			],
+			[
+				"hr",
+				"href	Attr"
+			],
+			[
+				"the_",
+				"the_permalink"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"bord",
+				"border-right"
+			],
+			[
+				"prepend",
+				"prepend	.prepend()"
+			],
+			[
+				"pre",
+				"prepend	.prepend()"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"_",
+				"_blank"
+			],
+			[
+				"style",
+				"style	Attr"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"repla",
+				"replace_string"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"pink",
+				"pink-ac"
+			],
+			[
+				"blue",
+				"blue-ac"
+			],
+			[
+				"purple",
+				"purple-ac"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"Print",
+				"print_r"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"end",
+				"endif"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 325,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 145,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"opendiff",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib2,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation') "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/Gulp-test-project",
+		"/C/wamp/www/Gulp-test-project/components"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/Gulp-test-project/README.md",
+		"/C/wamp/www/Gulp-test-project/build/development/index.html",
+		"/C/wamp/www/Gulp-test-project/components/sass/style.scss",
+		"/C/wamp/www/Gulp-test-project/package.json",
+		"/C/wamp/www/Gulp-test-project/.gitignore",
+		"/C/wamp/www/Gulp-test-project/components/sass/_rclick.scss",
+		"/C/wamp/www/Gulp-test-project/components/sass/_pixgrid.scss",
+		"/C/wamp/www/Gulp-test-project/components/sass/_modules.scss",
+		"/C/wamp/www/Gulp-test-project/components/sass/base.scss",
+		"/C/wamp/www/Gulp-test-project/components/sass/_variables.scss",
+		"/C/wamp/www/Gulp-test-project/components/sass/_mixins.scss",
+		"/C/wamp/www/Gulp-test-project/components/scripts/pixgrid.js",
+		"/C/wamp/www/Gulp-test-project/components/scripts/rclick.js",
+		"/C/wamp/www/Gulp-test-project/components/coffee/tagline.coffee",
+		"/C/wamp/www/Gulp-test-project/build/development/js/data.json",
+		"/C/wamp/www/Gulp-test-project/components/scripts/template.js",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/main.js",
+		"/C/Users/Jamil/Desktop/latest-custom-post-type-updates/index.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/A5_ExcerptClass.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/content-singlepost 2.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/loop-region.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/loop-category.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/functions 2.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/advanced-fpw.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/header 2.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/header 3.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/custom 2.css",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/functions 3.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/footer.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/class.phpmailer.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/class.smtp.php",
+		"/C/Users/Jamil/Desktop/mailFilters.xml",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/contact_form.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/footer 2.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/template-cpage.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/template-contact 2.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/site.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/configuration.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/index 2.html",
+		"/C/Users/Jamil/Desktop/Joomla_3.4.4-Stable-Full_Package/htaccess.txt",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/redirect.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/log.xml",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/log.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/template-contact.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/functions 4.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/custom 3.css",
+		"/C/Users/Jamil/Desktop/cookie-law-info.1.5.3/cookie-law-info/css/cli-style.css",
+		"/C/Users/Jamil/Desktop/shortcodes.css",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/admin-shortcodes.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/admin-setup.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/admin-setup 2.php",
+		"/C/Users/Jamil/Desktop/canvas theme/canvas 5.9.11/canvas/functions/css/shortcodes.css",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/style.css",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/custom 4.css",
+		"/C/Users/Jamil/Desktop/markup.html",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/header.php",
+		"/C/Users/Jamil/Desktop/canvas theme/canvas 5.9.11/canvas/header.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/wp-config 9.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/index.html",
+		"/C/Users/Jamil/Desktop/canvas theme/canvas 5.9.11/canvas/template-contact.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/page.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/category.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/custom.css",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/content-singlepost.php",
+		"/C/Users/Jamil/Desktop/fairytalez.wordpress.2015-10-15.xml",
+		"/C/Users/Jamil/Desktop/canvas theme/canvas 5.9.11/canvas/page.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/wp-config 8.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/wp-config 7.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/wp-config 6.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/wp-config 5.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/wp-config 4.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/wp-config 3.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/wp-config 2.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/wp-config.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/functions.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/template-blog 2.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/custom 2.css",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/footer 3.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/content-singlepost.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/functions 3.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/functions_custom.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/main 2.js",
+		"/C/Users/Jamil/Desktop/canvas theme/canvas 5.9.11/canvas/content.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/contact_form 2.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/custom.css",
+		"/C/Users/Jamil/Desktop/themeforest-2732248-gymbase-responsive-gym-fitness-wordpress-theme/gymbase/js/main.js",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/footer.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/template-blog.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/functions.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/custom 4.css",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/custom 3.css",
+		"/C/Users/Jamil/Desktop/backupbuddy/init_global.php",
+		"/C/Users/Jamil/Desktop/gistfile1.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/functions 2.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/main.js",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/header 2.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/custom2.js",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/wp-config 2.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/header 3.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/header.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/.htaccess 3",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/footer 2.php",
+		"/C/Users/Jamil/Desktop/themeforest-2732248-gymbase-responsive-gym-fitness-wordpress-theme/gymbase/contact_form.php",
+		"/C/Users/Jamil/Desktop/themeforest-2732248-gymbase-responsive-gym-fitness-wordpress-theme/gymbase/footer.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/index.html",
+		"/C/Users/Jamil/Desktop/accesslog_build.to_10_3_2015/build.to",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/.htaccess 2",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/wp-config.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/.htaccess",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/contact_form.php",
+		"/C/Users/Jamil/Desktop/themeforest-2732248-gymbase-responsive-gym-fitness-wordpress-theme/gymbase/comments-form.php",
+		"/D/DATA (F)/Softwares/web designing/Freelancer Data/Projects/Kristian Projects/failrytalez.com/backup/canvas/archive-portfolio.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/content-singlepost 2.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/style.css",
+		"/C/Users/Jamil/Desktop/themeforest-2732248-gymbase-responsive-gym-fitness-wordpress-theme/gymbase/phpMailer/README",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/template-home.php",
+		"/C/Users/Jamil/Desktop/themeforest-2732248-gymbase-responsive-gym-fitness-wordpress-theme/gymbase/style.css",
+		"/C/Users/Jamil/Desktop/themeforest-2732248-gymbase-responsive-gym-fitness-wordpress-theme/gymbase/shortcodes/map.php",
+		"/C/Users/Jamil/Desktop/themeforest-2732248-gymbase-responsive-gym-fitness-wordpress-theme/gymbase/page.php",
+		"/C/Users/Jamil/Desktop/themeforest-2732248-gymbase-responsive-gym-fitness-wordpress-theme/gymbase/index.php",
+		"/C/Users/Jamil/Desktop/themeforest-2732248-gymbase-responsive-gym-fitness-wordpress-theme/gymbase/template-home.php",
+		"/C/Users/Jamil/Desktop/themeforest-2732248-gymbase-responsive-gym-fitness-wordpress-theme/gymbase/template-blog.php",
+		"/C/Users/Jamil/Desktop/themeforest-2732248-gymbase-responsive-gym-fitness-wordpress-theme/gymbase/single.php",
+		"/C/Users/Jamil/Desktop/canvas theme/canvas 5.9.11/canvas/includes/theme-options.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/loop-region.php",
+		"/C/Users/Jamil/Desktop/flatsome/comments.php",
+		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/taxonomy-region.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\Jamil\\Desktop\\flatsome\\",
+			"C:\\Users\\Jamil\\Desktop\\dompdf-0.6.1\\dompdf",
+			"C:\\wamp\\www\\gingerorganicserver",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\QuotesCompanion.com\\backup\\canvas\\canvas\\canvas",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\QuotesCompanion.com\\backup\\canvas-child",
+			"C:\\Users\\Jamil\\Desktop\\phpBB-3.1.3",
+			"C:\\wamp\\www\\gingerorganic\\themes\\ginger",
+			"C:\\Users\\Jamil\\Desktop\\umer1970\\",
+			"C:\\Users\\Jamil\\Desktop\\umer1970\\themes\\default-bootstrap",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\modules\\customfields",
+			"C:\\Users\\Jamil\\Desktop\\umer1970",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\modules\\productlistattributes\\productlistattributes",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\modules\\v4.0.4-subscriptionsmanager\\subscriptionsmanager",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\modules\\productlistattributes\\productlistattributes",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\modules\\quickpay-3.26\\quickpay",
+			"C:\\Users\\Jamil\\Desktop\\SmartSend-PrestaShopCarrier-v109beta",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\Backup\\jamilginger10\\ginger",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\modules\\quickpay-3.26\\quickpay",
+			"C:\\Users\\Jamil\\Desktop\\umer1970",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\modules\\quickpay-3.26\\quickpay",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\Backup\\jamilginger10\\ginger",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\modules\\quickpay-3.26\\quickpay",
+			"C:\\Users\\Jamil\\Desktop\\umer1970",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\Backup\\jamilginger10\\ginger",
+			"C:\\wamp\\www\\gingerorganic",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\Backup\\jamilginger10\\ginger",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\Backup\\ginger-new",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\Backup\\jamilginger10\\ginger",
+			"C:\\wamp\\www\\gingerorganic",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\Backup\\jamilginger10\\ginger",
+			"C:\\Users\\Jamil\\Desktop\\productlistattributes",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\Backup\\jamilginger10\\ginger",
+			"C:\\Users\\Jamil\\Desktop\\productlistattributes",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\Backup\\jamilginger10\\ginger",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\Backup\\jamilginger10",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\Backup\\ginger-new",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\modules\\productlistattributes\\productlistattributes",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\Backup\\ginger-new",
+			"C:\\Users\\Jamil\\Desktop\\woocommerce\\woocommerce\\",
+			"C:\\Users\\Jamil\\Desktop\\woocommerce\\woocommerce\\templates",
+			"C:\\Users\\Jamil\\Desktop\\woocommerce\\woocommerce\\",
+			"C:\\Users\\Jamil\\Desktop\\woocommerce\\woocommerce\\templates",
+			"D:\\DATA (F)\\Softwares\\web designing\\Freelancer Data\\Projects\\Kristian Projects\\GingerOrganic.dk\\Backup\\ginger-new",
+			"C:\\wamp\\www\\dev\\wp-content\\themes\\wp-lynx",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"content",
+			"$title",
+			"$class",
+			"<a",
+			"images/",
+			"$instance['style']",
+			"$before_widget",
+			"$before_widget ",
+			"$afpw_posts",
+			"post_regions",
+			"regions",
+			"$link",
+			"post_categories",
+			"categories",
+			"#gform_wrapper_3",
+			"#contact-page input",
+			"input",
+			"#header",
+			".nav-toggle",
+			"body .nav-toggle",
+			"#header #navigation",
+			"logo",
+			"250",
+			"@media",
+			"input",
+			"input.txt",
+			"#contact-page ol.forms input.txt",
+			"1s",
+			"ease-in-out",
+			"8s",
+			"4s",
+			"scale(2)",
+			"height",
+			"logo",
+			"nav-toggle",
+			"navigation",
+			"SMTPDebug ",
+			"Sorry, we can't send this message",
+			"sawgrass",
+			"joomlage0071-simplex",
+			"joomlage",
+			"coll",
+			"#main ",
+			"#main",
+			"Canonical ",
+			".m",
+			"<span style=\"text-decoration: underline;\">",
+			"Pinterest",
+			"div",
+			"<?php single_cat_title(); ?> fairy tales",
+			"update_item",
+			"region",
+			"<img",
+			"http://dev.fairytalez.com/",
+			"http://dev.fairytalez.com/wp-content/uploads/2014/10/",
+			"http://dev.fairytalez.com",
+			"term",
+			"alegreya",
+			"<?php echo get_stylesheet_directory_uri() ?>",
+			"  .rev_slider_wrapper",
+			"@media",
+			".back-pattern.col-full .inner-pattern",
+			"show_admin_bar",
+			"bar",
+			"admin",
+			"goog_report_conversion",
+			"'",
+			"ight",
+			"979",
+			"wdith: auto",
+			"767",
+			"box-siz",
+			"iphone",
+			"device",
+			"Slider Responsive Media Queries",
+			"Share",
+			"url('",
+			"google_conversion_value",
+			"output",
+			"$outpu",
+			"submit_message",
+			"@media",
+			".back-pattern.col-full .inner-pattern",
+			"@media only screen and (max-width: 767px)",
+			"@media",
+			" wp_enqueue_style",
+			"function child_theme_enqueue_styles()",
+			"360",
+			".first_head",
+			"@media",
+			".first_head",
+			"-95px",
+			"#gform_wrapper_1",
+			"@media only",
+			"false",
+			"omment is a",
+			"modera",
+			"thecontent",
+			"text",
+			".elitecs #field_1_1 input",
+			".thecontent .floatleft",
+			"ytimg",
+			"inbnopntplxrjvjdbtkeryenmioedadtfnudi",
+			".js",
+			"url('",
+			".recent-post-title",
+			"add_shortcode",
+			"2px",
+			"a.more",
+			"29px 2px",
+			"a.more",
+			"@media",
+			"list-style-position: outside",
+			"list-style-position: outside;",
+			"ul",
+			".widget ul",
+			"@",
+			"thecontent",
+			"slide ",
+			"erfaring",
+			"menu-item",
+			"tagalphabet",
+			"large-columns",
+			"tagalphabet",
+			"true",
+			"tagalphabet",
+			"msgid",
+			"$errs"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"http://fairytalez.com/",
+			".feedback-thanks",
+			"feedthnks-popup",
+			"height=\"29\"",
+			"url('http://fairytalez.com/wp-content/themes/canvas-child/fonts/",
+			"index2_files",
+			"index2",
+			"li",
+			"h2",
+			"history.php",
+			"<br />",
+			".accounts-sub",
+			"Source Sans Pro",
+			"initial",
+			"getProducts",
+			".my-coupons-page",
+			"$my_ID",
+			"$term->ID"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 325,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								138,
+								138
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "firstgulp.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
