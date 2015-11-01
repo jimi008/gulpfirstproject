@@ -1,3 +1,3 @@
-# First Gulp Project 
+# Workflows Course
 
-My first gulp project 
+This project is an example of workflow management for a lynda.com course.

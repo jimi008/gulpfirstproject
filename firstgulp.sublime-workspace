@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"sas",
+				"sassSources"
+			],
+			[
+				"sc",
+				"scripts/"
+			],
+			[
 				"font",
 				"font-weight"
 			],
@@ -179,22 +187,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "package.json",
-			"settings":
-			{
-				"buffer_size": 325,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "gulpfile.js",
-			"settings":
-			{
-				"buffer_size": 145,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -203,17 +195,17 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "Package Control: ",
+		"height": 150.0,
+		"last_filter": "Package Control: in",
 		"selected_items":
 		[
 			[
-				"Package Control: ",
-				"Package Control: List Packages"
-			],
-			[
 				"Package Control: in",
 				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
 			],
 			[
 				"Package Control: ins",
@@ -236,7 +228,7 @@
 				"About"
 			]
 		],
-		"width": 464.0
+		"width": 419.0
 	},
 	"console":
 	{
@@ -260,24 +252,39 @@
 	"expanded_folders":
 	[
 		"/C/wamp/www/Gulp-test-project",
-		"/C/wamp/www/Gulp-test-project/components"
+		"/C/wamp/www/Gulp-test-project/builds",
+		"/C/wamp/www/Gulp-test-project/builds/development",
+		"/C/wamp/www/Gulp-test-project/builds/development/css",
+		"/C/wamp/www/Gulp-test-project/builds/development/js",
+		"/C/wamp/www/Gulp-test-project/builds/production",
+		"/C/wamp/www/Gulp-test-project/builds/production/css",
+		"/C/wamp/www/Gulp-test-project/builds/production/js",
+		"/C/wamp/www/Gulp-test-project/components",
+		"/C/wamp/www/Gulp-test-project/components/sass"
 	],
 	"file_history":
 	[
+		"/C/wamp/www/Gulp-test-project/package.json",
+		"/C/wamp/www/Gulp-test-project/builds/production/css/style.css",
+		"/C/wamp/www/Gulp-test-project/builds/development/css/style.css",
+		"/C/wamp/www/Gulp-test-project/components/sass/style.scss",
+		"/C/wamp/www/Gulp-test-project/gulpfile.js",
+		"/C/wamp/www/workflows/package.json",
+		"/C/wamp/www/Gulp-test-project/builds/development/index.html",
+		"/C/wamp/www/Gulp-test-project/components/sass/_variables.scss",
+		"/C/wamp/www/Gulp-test-project/components/scripts/pixgrid.js",
+		"/C/wamp/www/Gulp-test-project/builds/development/js/scripts.js",
+		"/C/wamp/www/Gulp-test-project/components/coffee/tagline.coffee",
+		"/C/wamp/www/Gulp-test-project/components/scripts/tagline.js",
 		"/C/wamp/www/Gulp-test-project/README.md",
 		"/C/wamp/www/Gulp-test-project/build/development/index.html",
-		"/C/wamp/www/Gulp-test-project/components/sass/style.scss",
-		"/C/wamp/www/Gulp-test-project/package.json",
 		"/C/wamp/www/Gulp-test-project/.gitignore",
 		"/C/wamp/www/Gulp-test-project/components/sass/_rclick.scss",
 		"/C/wamp/www/Gulp-test-project/components/sass/_pixgrid.scss",
 		"/C/wamp/www/Gulp-test-project/components/sass/_modules.scss",
 		"/C/wamp/www/Gulp-test-project/components/sass/base.scss",
-		"/C/wamp/www/Gulp-test-project/components/sass/_variables.scss",
 		"/C/wamp/www/Gulp-test-project/components/sass/_mixins.scss",
-		"/C/wamp/www/Gulp-test-project/components/scripts/pixgrid.js",
 		"/C/wamp/www/Gulp-test-project/components/scripts/rclick.js",
-		"/C/wamp/www/Gulp-test-project/components/coffee/tagline.coffee",
 		"/C/wamp/www/Gulp-test-project/build/development/js/data.json",
 		"/C/wamp/www/Gulp-test-project/components/scripts/template.js",
 		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-1/main.js",
@@ -384,18 +391,11 @@
 		"/C/Users/Jamil/Desktop/themeforest-2732248-gymbase-responsive-gym-fitness-wordpress-theme/gymbase/style.css",
 		"/C/Users/Jamil/Desktop/themeforest-2732248-gymbase-responsive-gym-fitness-wordpress-theme/gymbase/shortcodes/map.php",
 		"/C/Users/Jamil/Desktop/themeforest-2732248-gymbase-responsive-gym-fitness-wordpress-theme/gymbase/page.php",
-		"/C/Users/Jamil/Desktop/themeforest-2732248-gymbase-responsive-gym-fitness-wordpress-theme/gymbase/index.php",
-		"/C/Users/Jamil/Desktop/themeforest-2732248-gymbase-responsive-gym-fitness-wordpress-theme/gymbase/template-home.php",
-		"/C/Users/Jamil/Desktop/themeforest-2732248-gymbase-responsive-gym-fitness-wordpress-theme/gymbase/template-blog.php",
-		"/C/Users/Jamil/Desktop/themeforest-2732248-gymbase-responsive-gym-fitness-wordpress-theme/gymbase/single.php",
-		"/C/Users/Jamil/Desktop/canvas theme/canvas 5.9.11/canvas/includes/theme-options.php",
-		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/loop-region.php",
-		"/C/Users/Jamil/Desktop/flatsome/comments.php",
-		"/C/Users/Jamil/AppData/Local/Temp/fz3temp-2/taxonomy-region.php"
+		"/C/Users/Jamil/Desktop/themeforest-2732248-gymbase-responsive-gym-fitness-wordpress-theme/gymbase/index.php"
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -454,6 +454,22 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"@import",
+			"components/sass/",
+			"#content",
+			"@import",
+			"pro",
+			"ction",
+			"prod",
+			"'builds/development/",
+			"/';\n",
+			"var ",
+			"htmlSources",
+			"minifyCSS",
+			"jsSources",
+			"	\n",
+			"concat",
+			"coffee",
 			"content",
 			"$title",
 			"$class",
@@ -565,23 +581,7 @@
 			"a.more",
 			"29px 2px",
 			"a.more",
-			"@media",
-			"list-style-position: outside",
-			"list-style-position: outside;",
-			"ul",
-			".widget ul",
-			"@",
-			"thecontent",
-			"slide ",
-			"erfaring",
-			"menu-item",
-			"tagalphabet",
-			"large-columns",
-			"tagalphabet",
-			"true",
-			"tagalphabet",
-			"msgid",
-			"$errs"
+			"@media"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -617,183 +617,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "package.json",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 325,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content"
-							],
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "gulpfile.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 145,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								138,
-								138
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content"
-							],
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
